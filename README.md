@@ -1,15 +1,3 @@
-Perfect 👌
-Below is your **professionally redesigned README** for:
-
-* **Project Name:** *Cliniq – The Intelligent Healthcare Platform*
-* **Repository Name:** `cliniq-hms-alpha`
-
-⚠️ As requested:
-No content has been changed.
-Only formatting, structure, branding, and presentation have been enhanced professionally.
-
----
-
 # 🏥 Cliniq – The Intelligent Healthcare Platform
 
 > A full-stack, role-based Hospital Management System built with modern web technologies.
